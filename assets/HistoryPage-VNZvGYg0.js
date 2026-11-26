@@ -1,0 +1,1 @@
+import{u as a,j as s,a7 as e}from"./index-DCi_M34g.js";const o=()=>{const{t}=a("game");return s.jsxs("div",{className:"space-y-3 animate-fade-in",children:[s.jsx("p",{className:"text-sm text-muted-foreground px-1",children:t("history.intro")}),s.jsx(e,{})]})};export{o as default};
